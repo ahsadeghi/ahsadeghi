@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fire Dynamics
 - 🌱 I’m currently learning Battery Fires
 - 💞️ I’m looking to collaborate on Fire Safety Engineering
-- 📫 How to reach me hosein.sadeghi@aalto.fi/ hosein.sadeghi@kcl.ac.uk
+- 📫 How to reach me hosein.sadeghi@kcl.ac.uk/ hosein.sadeghi@aalto.fi
 
 <!---
 ahsadeghi/ahsadeghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
