@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahsadeghi Hosein Sadeghi
-- 👀 I’m interested in Fire Dynamics
-- 🌱 I’m currently learning Battery Fires
-- 💞️ I’m looking to collaborate on Fire Safety Engineering
+- 👀 I’m interested in battery science and safety
+- 🌱 I’m currently learning thermal runaway modelling
 - 📫 How to reach me hosein.sadeghi@kcl.ac.uk
 
 <!---
